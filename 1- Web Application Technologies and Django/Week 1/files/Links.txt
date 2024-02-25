@@ -1,0 +1,11 @@
+https://www.djangoproject.com/
+
+https://djangogirls.org/en/
+
+https://tutorial.djangogirls.org/en/
+
+https://docs.djangoproject.com/en/3.0/intro/overview/
+
+https://djangogirls.org/en/events/map/
+
+https://en.wikipedia.org/wiki/HTTP
